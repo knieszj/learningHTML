@@ -4,6 +4,12 @@
 node_modules
 dist
 .cache
+<<<<<<< HEAD
+=======
+node_modules
+dist
+.cache
+>>>>>>> e57ff1e149fdad34cbec7a1624c9c801cfc581b8
 css
 doc
 img
